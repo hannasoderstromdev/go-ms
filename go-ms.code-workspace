@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "broker-service"
+    },
+    {
+      "path": "front-end"
+    }
+  ],
+  "settings": {
+    "cSpell.ignoreWords": ["gohtml", "tmpl"]
+  }
+}
