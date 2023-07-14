@@ -11,9 +11,12 @@
     },
     {
       "path": "authentication-service"
+    },
+    {
+      "path": "logger-service"
     }
   ],
   "settings": {
-    "cSpell.ignoreWords": ["gohtml", "tmpl"]
+    "cSpell.ignoreWords": ["bson", "gohtml", "tmpl"]
   }
 }
