@@ -8,6 +8,9 @@
     },
     {
       "path": "front-end"
+    },
+    {
+      "path": "authentication-service"
     }
   ],
   "settings": {
