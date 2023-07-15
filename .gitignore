@@ -2,5 +2,5 @@
 brokerApp
 frontApp
 authApp
-db-data/postgres
+db-data
 *.sql
