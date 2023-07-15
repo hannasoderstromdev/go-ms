@@ -2,5 +2,6 @@
 brokerApp
 frontApp
 authApp
+loggerApp
 db-data
 *.sql
